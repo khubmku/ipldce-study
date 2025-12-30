@@ -5,7 +5,9 @@ export default function Home() {
     {
       title: "Paper-I",
       description: "Notes, rules & MCQs for LDCE IPO Paper-I.",
-      link: "/study/paper1",
+      // link: "/study/paper1",
+      link: "/paper-1",
+
       color: "from-blue-500 to-blue-600",
       icon: "📘",
     },
